@@ -1,5 +1,5 @@
 git# opposite-sides-of-the-world
 
-By Georges,
+By Georges, Nyall, Luke
 
-Hi
+
